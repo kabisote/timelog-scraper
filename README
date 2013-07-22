@@ -1,0 +1,1 @@
+This is a web app, built using the Tornado web framework and the requests and lxml libraries, to scrape reports on our company log and present it in a clearer way.
